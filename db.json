@@ -1,0 +1,586 @@
+{
+  "user": [
+    {
+      "userId": 10001,
+      "fullName": "P.Munivara",
+      "userName": "Munivara.P",
+      "password": "Muni@00001",
+      "role": "Staff",
+      "id": 10001
+    },
+    {
+      "userId": 10002,
+      "fullName": "G.S.J.NagaDevi",
+      "userName": "NagaDevi.G",
+      "password": "NagaDevi@00002",
+      "role": "Staff",
+      "id": 10002
+    },
+    {
+      "userId": 10003,
+      "fullName": "B.Surya Prabhavathi",
+      "userName": "Prabhavathi.B",
+      "password": "Prabha@00003",
+      "role": "Staff",
+      "id": 10003
+    },
+    {
+      "userId": 10004,
+      "fullName": "G.Jyothirmai",
+      "userName": "Jyothi.G",
+      "password": "Jyothi@00004",
+      "role": "Staff",
+      "id": 10004
+    },
+    {
+      "userId": 10005,
+      "fullName": "B.L.N.V.Swethaa",
+      "userName": "Swetha.B",
+      "password": "Swetha@00005",
+      "role": "Staff",
+      "id": 10005
+    },
+    {
+      "userId": 10006,
+      "fullName": "Andy.Hemanth",
+      "userName": "Hemanth.A",
+      "password": "Hemanth@00006",
+      "role": "Staff",
+      "id": 10006
+    },
+    {
+      "userId": 10007,
+      "fullName": "Andy.Karthik",
+      "userName": "Karthik.A",
+      "password": "Karthik@00007",
+      "role": "Staff",
+      "id": 10007
+    },
+    {
+      "userId": 32001,
+      "fullName": "Andy.Karthik",
+      "userName": "Karthik.Andy",
+      "password": "Karthik@32001",
+      "role": "Student",
+      "id": 32001
+    },
+    {
+      "userId": 32002,
+      "fullName": "Andy.Karthik",
+      "userName": "Karthik.A",
+      "password": "Karthik@32002",
+      "role": "Student",
+      "id": 32002
+    },
+    {
+      "userId": 32003,
+      "fullName": "Andy.Karthik",
+      "userName": "Karthik.A",
+      "password": "Karthik@32003",
+      "role": "Student",
+      "id": 32003
+    },
+    {
+      "userId": 32004,
+      "fullName": "swetha",
+      "userName": "swetha.Barre",
+      "password": "swetha123",
+      "role": "Student",
+      "id": 32004
+    },
+    {
+      "fullName": "Surya",
+      "userName": "Surya.Barre",
+      "password": "Surya123",
+      "role": "Student",
+      "id": 32005
+    },
+    {
+      "fullName": "Shalini",
+      "userName": "Shalini.Gudiyala",
+      "password": "Surya123",
+      "role": "Student",
+      "id": 32006
+    },
+    {
+      "fullName": "mnfksdfsf",
+      "userName": "mnfksdfsf.kjnjnjjj",
+      "password": "sndndsd",
+      "role": "Staff",
+      "id": 32007
+    },
+    {
+      "fullName": "hgjhgg",
+      "userName": "hgjhgg.ghgghgg",
+      "password": "gfghfghfhg",
+      "role": "Staff",
+      "id": 32008
+    },
+    {
+      "fullName": "Bharani",
+      "userName": "Bharani.Kayatam",
+      "password": "Bharani@20202",
+      "role": "Student",
+      "id": 32009
+    },
+    {
+      "fullName": "Bharani",
+      "userName": "Bharani.Kayatam",
+      "password": "Bharani@2020",
+      "role": "Student",
+      "id": 32010
+    }
+  ],
+  "timeTable": [
+    {
+      "day": "Mon",
+      "Lacture_I": "English",
+      "Lacture_II": "2nd Language",
+      "Lacture_III": "Maths",
+      "Lacture_IV": "Rhyms",
+      "Lacture_V": "1st Language",
+      "Lacture_VI": "Drill"
+    },
+    {
+      "day": "Tue",
+      "Lacture_I": "Rhyms",
+      "Lacture_II": "Drawing",
+      "Lacture_III": "English",
+      "Lacture_IV": "Sleeping",
+      "Lacture_V": "1st Language",
+      "Lacture_VI": "Crafts"
+    },
+    {
+      "day": "Wed",
+      "Lacture_I": "1st Language",
+      "Lacture_II": "Maths",
+      "Lacture_III": "2nd Language",
+      "Lacture_IV": "Drawing",
+      "Lacture_V": "Rhyms",
+      "Lacture_VI": "YOGA"
+    },
+    {
+      "day": "Thu",
+      "Lacture_I": "English",
+      "Lacture_II": "Rhyms",
+      "Lacture_III": "2nd Language",
+      "Lacture_IV": "Maths",
+      "Lacture_V": "1st Language",
+      "Lacture_VI": "Activity"
+    },
+    {
+      "day": "Fri",
+      "Lacture_I": "Maths",
+      "Lacture_II": "1st Language",
+      "Lacture_III": "English",
+      "Lacture_IV": "Rhyms",
+      "Lacture_V": "Activity",
+      "Lacture_VI": "Drill"
+    }
+  ],
+  "details": [
+    {
+      "id": 1001,
+      "firstname": "jsdjjs",
+      "lastname": "jdnjsjjc",
+      "dateofbirth": "20/06/1998",
+      "emailid": "asd@gmail.com ",
+      "password": "dsffsf",
+      "cnfpwd": "ssdsf",
+      "role": "teacher",
+      "mobileno": "8667534567"
+    },
+    {
+      "firstname": "swetha",
+      "lastname": "Barre",
+      "dateofbirth": "2020-04-15",
+      "emailid": "hgfgf@gmail.com",
+      "password": "hxghgdh",
+      "cnfpwd": "jshghgdhs",
+      "role": "teacher",
+      "mobileno": "9886543227",
+      "id": 1002
+    },
+    {
+      "firstname": "Supriya",
+      "lastname": "Sunkara",
+      "dateofbirth": "2020-04-13",
+      "emailid": "supriya@gmail.com",
+      "password": "dsfsd",
+      "cnfpwd": "zxczx",
+      "role": "student",
+      "mobileno": "7654432167",
+      "id": 1003
+    },
+    {
+      "firstname": "Mounika",
+      "lastname": "Sunkara",
+      "dateofbirth": "2020-04-14",
+      "emailid": "sedrfth@gmail.com",
+      "password": "sdfghj",
+      "cnfpwd": "sdfghj",
+      "role": "teacher",
+      "mobileno": "9678905432",
+      "id": 1004
+    },
+    {
+      "firstname": "Mounika",
+      "lastname": "Sunkara",
+      "dateofbirth": "2020-04-14",
+      "emailid": "sedrfth@gmail.com",
+      "password": "sdfghj",
+      "cnfpwd": "sdfghj",
+      "role": "teacher",
+      "mobileno": "9678905432",
+      "id": 1005
+    },
+    {
+      "firstname": "swetha",
+      "lastname": "Barre",
+      "dateofbirth": "2020-04-15",
+      "emailid": "swetha@hhhh",
+      "password": "swetha123",
+      "cnfpwd": "swetha123",
+      "role": "Student",
+      "mobileno": "9665443333",
+      "id": 1006
+    },
+    {
+      "firstname": "Surya",
+      "lastname": "Barre",
+      "dateofbirth": "2020-04-13",
+      "emailid": "surya@gmail.com",
+      "password": "Surya123",
+      "cnfpwd": "Surya123",
+      "role": "student",
+      "mobileno": "8141445456",
+      "id": 1007
+    },
+    {
+      "firstname": "Shalini",
+      "lastname": "Gudiyala",
+      "dateofbirth": "2020-04-14",
+      "emailid": "Surya@gmail.com",
+      "password": "Surya123",
+      "cnfpwd": "Surya123",
+      "role": "student",
+      "mobileno": "8765435678",
+      "id": 1008
+    },
+    {
+      "firstname": "mnfksdfsf",
+      "lastname": "kjnjnjjj",
+      "dateofbirth": "2020-04-15",
+      "emailid": "supriya@gmail.com",
+      "password": "sndndsd",
+      "cnfpwd": "dnnsndsd",
+      "role": "Staff",
+      "mobileno": "6788788745",
+      "id": 1009
+    },
+    {
+      "firstname": "hgjhgg",
+      "lastname": "ghgghgg",
+      "dateofbirth": "2020-04-15",
+      "emailid": "swethalalli000@gmail.com",
+      "password": "gfghfghfhg",
+      "cnfpwd": "jffghfghfhf",
+      "role": "Staff",
+      "mobileno": "8765544444",
+      "id": 1010
+    },
+    {
+      "firstname": "Bharani",
+      "lastname": "Kayatam",
+      "dateofbirth": "2020-04-09",
+      "emailid": "Bharani@gmail.com",
+      "password": "Bharani@20202",
+      "cnfpwd": "Bharani@20202",
+      "role": "Student",
+      "mobileno": "8978675634",
+      "id": 1011
+    },
+    {
+      "firstname": "Bharani",
+      "lastname": "Kayatam",
+      "dateofbirth": "2020-04-04",
+      "emailid": "hgfgf@gmail.com",
+      "password": "Bharani@2020",
+      "cnfpwd": "Bharani@20202",
+      "role": "Student",
+      "mobileno": "6789578888",
+      "id": 1012
+    }
+  ],
+  "class": [
+    {
+      "id": 301,
+      "standard": "Class 1",
+      "classteacher": "Muni.P",
+      "classleader": "Lalitha.B",
+      "strength": "30"
+    },
+    {
+      "id": 302,
+      "standard": "Class 2",
+      "classteacher": "Swetha.B",
+      "classleader": "Sai.J",
+      "strength": "30"
+    },
+    {
+      "id": 303,
+      "standard": "Class 3",
+      "classteacher": "Jyothi.G",
+      "classleader": "Jaya.ch",
+      "strength": "30"
+    },
+    {
+      "id": 304,
+      "standard": "Class 4",
+      "classteacher": "Shalini.G",
+      "classleader": "Swapna.k",
+      "strength": "30"
+    },
+    {
+      "id": 305,
+      "standard": "Class 5",
+      "classteacher": "Hemanth.A",
+      "classleader": "Ganesh.K",
+      "strength": "30"
+    },
+    {
+      "id": 306,
+      "standard": "UKG",
+      "classteacher": "Karthik.A",
+      "classleader": "Suma.T",
+      "strength": "30"
+    },
+    {
+      "id": 307,
+      "standard": "LKG",
+      "classteacher": "Surya.B",
+      "classleader": "kerthi.M",
+      "strength": "30"
+    }
+  ],
+  "students": [
+    {
+      "id": 31001,
+      "name": "Akshaya.M",
+      "standard": "Class 1"
+    },
+    {
+      "id": 31002,
+      "name": "Abhi.Ch",
+      "standard": "Class 1"
+    },
+    {
+      "id": 31003,
+      "name": "Anika.D",
+      "standard": "Class 1"
+    },
+    {
+      "id": 31004,
+      "name": "Sushma.K",
+      "standard": "Class 1"
+    },
+    {
+      "id": 31005,
+      "name": "Suma.M",
+      "standard": "Class 2"
+    },
+    {
+      "id": 31006,
+      "name": "Jhansi.M",
+      "standard": "Class 2"
+    },
+    {
+      "id": 31007,
+      "name": "Divya.D",
+      "standard": "Class 3"
+    },
+    {
+      "id": 31008,
+      "name": "Jyotsna.J",
+      "standard": "Class 4"
+    },
+    {
+      "id": 31009,
+      "name": "Anusha.N",
+      "standard": "Class 5"
+    },
+    {
+      "id": 31010,
+      "name": "Bhavani.K",
+      "standard": "UKG"
+    },
+    {
+      "id": 31011,
+      "name": "Kyathi.M",
+      "standard": "LKG"
+    },
+    {
+      "id": 31012,
+      "name": "Anika.S",
+      "standard": "LKG"
+    }
+  ],
+  "result": [
+    {
+      "id": 31001,
+      "name": "Akshaya.M",
+      "firstLanguage": 23,
+      "secondLanguage": 24,
+      "Maths": 25,
+      "English": 23,
+      "Drawing": 25,
+      "Rhyms": 24,
+      "Total": 144,
+      "Rank": 2,
+      "standard": "Class 1"
+    },
+    {
+      "id": 31002,
+      "name": "Abhi.Ch",
+      "firstLanguage": 23,
+      "secondLanguage": 24,
+      "English": 23,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 142,
+      "Rank": 1,
+      "standard": "Class 1"
+    },
+    {
+      "id": 31003,
+      "name": "Anika.D",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 3,
+      "standard": "Class 1"
+    },
+    {
+      "id": 31003,
+      "name": "Sushma.K",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 21,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 139,
+      "Rank": 4,
+      "standard": "Class 1"
+    },
+    {
+      "id": 31005,
+      "name": "Suma.M",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "Maths": 25,
+      "English": 22,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 139,
+      "Rank": 1,
+      "standard": "Class 2"
+    },
+    {
+      "id": 31006,
+      "name": "Jhansi.M",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 2,
+      "standard": "Class 2"
+    },
+    {
+      "id": 31007,
+      "name": "Divya.D",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 1,
+      "standard": "Class 3"
+    },
+    {
+      "id": 31008,
+      "name": "Jyotsna.J",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 1,
+      "standard": "Class 4"
+    },
+    {
+      "id": 31009,
+      "name": "Anusha.N",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 1,
+      "standard": "Class 5"
+    },
+    {
+      "id": 31010,
+      "name": "Bhavani.K",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 1,
+      "standard": "UKG"
+    },
+    {
+      "id": 31011,
+      "name": "Akshaya.M",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 1,
+      "standard": "LKG"
+    },
+    {
+      "id": 31012,
+      "name": "Akshaya.M",
+      "firstLanguage": 23,
+      "secondLanguage": 21,
+      "English": 22,
+      "Maths": 25,
+      "Drawing": 24,
+      "Rhyms": 24,
+      "Total": 140,
+      "Rank": 2,
+      "standard": "LKG"
+    }
+  ]
+}
