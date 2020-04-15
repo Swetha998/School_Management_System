@@ -582,5 +582,35 @@
       "Rank": 2,
       "standard": "LKG"
     }
+  ],
+  "feeStructure":[
+    {
+      "standard":"LKG",
+      "Fee":20000
+    },
+    {
+      "standard":"UKG",
+      "Fee":25000
+    },
+    {
+      "standard":"Class 1",
+      "Fee":32000
+    },
+    {
+      "standard":"Class 2",
+      "Fee":36000
+    },
+    {
+      "standard":"Class 3",
+      "Fee":39000
+    },
+    {
+      "standard":"Class 4",
+      "Fee":42000
+    },
+    {
+      "standard":"Class 5",
+      "Fee":45000
+    }
   ]
 }
